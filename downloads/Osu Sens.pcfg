@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PenTableInit>
+	<PID_0075>
+		<deviceinfo>
+			<device-name>430|540|G430S</device-name>
+			<device-vid>VID_28BD</device-vid>
+			<device-width>13.97</device-width>
+			<device-height>10.16</device-height>
+			<device-type>0</device-type>
+			<device-turntable>FALSE</device-turntable>
+			<device-buttons>FALSE</device-buttons>
+			<device-buttonsnum>0</device-buttonsnum>
+		</deviceinfo>
+		<ui-common>
+			<ui-Pen>
+				<pen-TipButton SelectID="1">
+				</pen-TipButton>
+				<pen-FirstButton SelectID="0">
+				</pen-FirstButton>
+				<pen-SecondButton SelectID="0">
+				</pen-SecondButton>
+				<pen-P0>0.000000</pen-P0>
+				<pen-P1X>0.500000</pen-P1X>
+				<pen-P1Y>0.500000</pen-P1Y>
+				<pen-P2>1.000000</pen-P2>
+			</ui-Pen>
+			<ui-ScreenMapping SelectID="1">
+				<Screen-OffsetX>0</Screen-OffsetX>
+				<Screen-OffsetY>0</Screen-OffsetY>
+				<Screen-Width>1920</Screen-Width>
+				<Screen-Height>1080</Screen-Height>
+			</ui-ScreenMapping>
+			<ui-AdvancedSetup>
+				<Advanced-Pannel>
+					<Advanced-Pannel-WorkArea-OffsetX>0</Advanced-Pannel-WorkArea-OffsetX>
+					<Advanced-Pannel-WorkArea-OffsetY>0</Advanced-Pannel-WorkArea-OffsetY>
+					<Advanced-Pannel-WorkArea-Width>229</Advanced-Pannel-WorkArea-Width>
+					<Advanced-Pannel-WorkArea-Height>162</Advanced-Pannel-WorkArea-Height>
+				</Advanced-Pannel>
+				<Advanced-Other>
+					<Other-LeftMode IsChecked="False">
+					</Other-LeftMode>
+					<Other-TablePC IsChecked="False">
+					</Other-TablePC>
+					<Other-RelativeCoords IsChecked="False">
+					</Other-RelativeCoords>
+					<Other-DisableInfo IsChecked="False">
+					</Other-DisableInfo>
+				</Advanced-Other>
+			</ui-AdvancedSetup>
+			<PictureFiles>
+				<Tablet_0>
+					<PngID>104</PngID>
+					<Left>0.675</Left>
+					<Top>0.491</Top>
+					<Right>0.862</Right>
+					<Bottom>0.653</Bottom>
+				</Tablet_0>
+				<Tablet_1>
+					<PngID>105</PngID>
+					<Left>0.619</Left>
+					<Top>0.492</Top>
+					<Right>0.806</Right>
+					<Bottom>0.653</Bottom>
+				</Tablet_1>
+			</PictureFiles>
+		</ui-common>
+	</PID_0075>
+	<PID_0094>
+		<deviceinfo>
+			<device-name>G640</device-name>
+			<device-vid>VID_28BD</device-vid>
+			<device-type>0</device-type>
+			<device-turntable>FALSE</device-turntable>
+			<device-buttons>FALSE</device-buttons>
+			<device-buttonsnum>0</device-buttonsnum>
+		</deviceinfo>
+		<ui-common>
+			<ui-Pen>
+				<pen-TipButton SelectID="1">
+				</pen-TipButton>
+				<pen-FirstButton SelectID="1">
+				</pen-FirstButton>
+				<pen-SecondButton SelectID="3">
+				</pen-SecondButton>
+				<pen-P0>0.0</pen-P0>
+				<pen-P1X>0.5</pen-P1X>
+				<pen-P1Y>0.5</pen-P1Y>
+				<pen-P2>1.0</pen-P2>
+			</ui-Pen>
+			<ui-ScreenMapping SelectID="1">
+				<Screen-OffsetX>0</Screen-OffsetX>
+				<Screen-OffsetY>0</Screen-OffsetY>
+				<Screen-Width>0</Screen-Width>
+				<Screen-Height>0</Screen-Height>
+			</ui-ScreenMapping>
+			<ui-AdvancedSetup>
+				<Advanced-Pannel>
+					<Advanced-Pannel-WorkArea-OffsetX>0</Advanced-Pannel-WorkArea-OffsetX>
+					<Advanced-Pannel-WorkArea-OffsetY>0</Advanced-Pannel-WorkArea-OffsetY>
+					<Advanced-Pannel-WorkArea-Width>0</Advanced-Pannel-WorkArea-Width>
+					<Advanced-Pannel-WorkArea-Height>0</Advanced-Pannel-WorkArea-Height>
+				</Advanced-Pannel>
+				<Advanced-Other>
+					<Other-LeftMode IsChecked="False">
+					</Other-LeftMode>
+					<Other-TablePC IsChecked="False">
+					</Other-TablePC>
+					<Other-RelativeCoords IsChecked="False">
+					</Other-RelativeCoords>
+					<Other-DisableInfo IsChecked="False">
+					</Other-DisableInfo>
+				</Advanced-Other>
+			</ui-AdvancedSetup>
+			<PictureFiles>
+				<Tablet_0>
+					<PngID>149</PngID>
+					<Left>0.642</Left>
+					<Top>0.525</Top>
+					<Right>0.837</Right>
+					<Bottom>0.664</Bottom>
+				</Tablet_0>
+				<Tablet_1>
+					<PngID>150</PngID>
+					<Left>0.642</Left>
+					<Top>0.480</Top>
+					<Right>0.837</Right>
+					<Bottom>0.620</Bottom>
+				</Tablet_1>
+			</PictureFiles>
+		</ui-common>
+	</PID_0094>
+	<PID_0061>
+		<deviceinfo>
+			<device-name>540 Pro</device-name>
+			<device-vid>VID_28BD</device-vid>
+			<device-width>13.97</device-width>
+			<device-height>10.16</device-height>
+			<device-type>0</device-type>
+			<device-turntable>FALSE</device-turntable>
+			<device-buttons>FALSE</device-buttons>
+			<device-buttonsnum>0</device-buttonsnum>
+		</deviceinfo>
+		<ui-common>
+			<ui-Pen>
+				<pen-TipButton SelectID="1">
+				</pen-TipButton>
+				<pen-FirstButton SelectID="1">
+				</pen-FirstButton>
+				<pen-SecondButton SelectID="3">
+				</pen-SecondButton>
+				<pen-P0>0.0</pen-P0>
+				<pen-P1X>0.5</pen-P1X>
+				<pen-P1Y>0.5</pen-P1Y>
+				<pen-P2>1.0</pen-P2>
+			</ui-Pen>
+			<ui-ScreenMapping SelectID="1">
+				<Screen-OffsetX>0</Screen-OffsetX>
+				<Screen-OffsetY>0</Screen-OffsetY>
+				<Screen-Width>0</Screen-Width>
+				<Screen-Height>0</Screen-Height>
+			</ui-ScreenMapping>
+			<ui-AdvancedSetup>
+				<Advanced-Pannel>
+					<Advanced-Pannel-WorkArea-OffsetX>0</Advanced-Pannel-WorkArea-OffsetX>
+					<Advanced-Pannel-WorkArea-OffsetY>0</Advanced-Pannel-WorkArea-OffsetY>
+					<Advanced-Pannel-WorkArea-Width>0</Advanced-Pannel-WorkArea-Width>
+					<Advanced-Pannel-WorkArea-Height>0</Advanced-Pannel-WorkArea-Height>
+				</Advanced-Pannel>
+				<Advanced-Other>
+					<Other-LeftMode IsChecked="False">
+					</Other-LeftMode>
+					<Other-TablePC IsChecked="False">
+					</Other-TablePC>
+					<Other-RelativeCoords IsChecked="False">
+					</Other-RelativeCoords>
+					<Other-DisableInfo IsChecked="False">
+					</Other-DisableInfo>
+				</Advanced-Other>
+			</ui-AdvancedSetup>
+			<PictureFiles>
+				<Tablet_0>
+					<PngID>137</PngID>
+					<Left>0.678</Left>
+					<Top>0.535</Top>
+					<Right>0.811</Right>
+					<Bottom>0.642</Bottom>
+				</Tablet_0>
+				<Tablet_1>
+					<PngID>138</PngID>
+					<Left>0.667</Left>
+					<Top>0.505</Top>
+					<Right>0.799</Right>
+					<Bottom>0.612</Bottom>
+				</Tablet_1>
+			</PictureFiles>
+		</ui-common>
+	</PID_0061>
+</PenTableInit>
