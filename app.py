@@ -7,7 +7,7 @@ from werkzeug.utils import secure_filename
 dir_path = os.path.dirname(os.path.realpath(__file__))
 
 app = Flask(__name__)
-app.config['UPLOAD_FOLDER'] = dir_path + '\\downloads'
+app.config['UPLOAD_FOLDER'] = dir_path + '/downloads'
 
 @app.route('/', methods=['GET'])
 def index():
